@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs,Nextjs**
 
-- 📝 I regularly write articles on [https://codingyush.com](https://codinagyush.com)
+- 📝 I regularly write articles on [https://codingayush.com](https://codingayush.com)
 
 - 💬 Ask me about **HTML,CSS,JavaScript, React,**
 
