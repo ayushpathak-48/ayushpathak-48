@@ -23,6 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpathak-48&show_icons=true&locale=en&layout=compact" alt="ayushpathak-48" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushpathak-48&show_icons=true&locale=en" alt="ayushpathak-48" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayushpathak-48" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=ayushpathak-48" alt="GitHub Streak" />
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpathak-48&" alt="ayushpathak-48" /></p> -->
